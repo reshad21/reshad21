@@ -1,44 +1,121 @@
-<h1 align="center">Hi 👋, I'm Rashed Uzzaman Reshad</h1>
+# Hi there! 👋 I'm Rasheduzzaman Reshad
 
-<div align="center">
-  <img 
-    src="https://drive.google.com/uc?export=view&id=114AXpyJISIxeabZCe4iERBBLSj6fftBD" 
-    alt="reshad21" 
-    width="200" 
-    height="200" 
-    style="border-radius: 50%; border: 4px solid purple;" 
-  />
-</div>
+Welcome to my GitHub profile! I'm a passionate **FULL Stack Developer** with expertise in modern web technologies and database management.
 
-<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+## 🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reshad21&label=Profile%20views&color=0e75b6&style=flat" alt="reshad21" /> </p>
+I'm a full-stack developer who loves building scalable web applications using the MERN stack and modern development tools. I have a strong focus on creating efficient, maintainable code and delivering exceptional user experiences.
 
-- 🌱 I’m currently learning **sql**
+- 🔭 Currently working on exciting MERN stack projects
+- 🌱 Always learning and exploring new technologies
+- 💼 Open to collaboration and new opportunities
+- 📫 How to reach me: **rasheduzzamanreshad@gmail.com**
+- 🌐 Portfolio: **[reshadportfolio.vercel.app](https://reshadportfolio.vercel.app/portfolio)**
 
-- 👨‍💻 All of my projects are available at [https://reshadportfolio.vercel.app/portfolio](https://reshadportfolio.vercel.app/portfolio)
+## 🛠️ Tech Stack
 
-- 📝 I regularly write articles on [https://reshadportfolio.vercel.app/portfolio](https://reshadportfolio.vercel.app/portfolio)
+### Frontend
+- **React.js** - Building dynamic user interfaces
+- **Next.js** - Full-stack React framework
+- **JavaScript (ES6+)** - Modern JavaScript development
+- **TypeScript** - Type-safe development
+- **HTML5 & CSS3** - Semantic markup and styling
+- **Tailwind CSS** - Utility-first CSS framework
+- **Bootstrap** - Responsive design framework
 
-- 💬 Ask me about **react,nextjs**
+### Backend
+- **Node.js** - Server-side JavaScript runtime
+- **Express.js** - Fast, unopinionated web framework
+- **RESTful APIs** - Building scalable web services
+- **JWT Authentication** - Secure user authentication
 
-- 📫 How to reach me **rasheduzzamanreshad@gmail.com**
+### Database & ORM
+- **MongoDB** - NoSQL database
+- **Mongoose** - MongoDB object modeling
+- **PostgreSQL** - Relational database
+- **Prisma** - Next-generation ORM for Node.js and TypeScript
+- **MySQL** - Relational database management
 
-- 📄 Know about my experiences [https://reshadportfolio.vercel.app/portfolio](https://reshadportfolio.vercel.app/portfolio)
+### Tools & Technologies
+- **Git & GitHub** - Version control and collaboration
+- **Vercel** - Deployment and hosting
+- **Netlify** - Static site deployment
+- **Postman** - API testing and development
+- **VS Code** - Code editor
+- **npm/yarn** - Package management
 
-- ⚡ Fun fact **I think i am funny about new techonology learning**
+## 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/web-developer-rashed-uzzaman-reshad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/web-developer-rashed-uzzaman-reshad/" height="30" width="40" /></a>
-<a href="https://fb.com/reshad.rashed.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reshad.rashed.7" height="30" width="40" /></a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reshad21&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reshad&layout=compact&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reshad21&show_icons=true&locale=en&layout=compact" alt="reshad21" /></p>
+## 🔥 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reshad21&show_icons=true&locale=en" alt="reshad21" /></p>
+### 🌟 Bike Rental Reservation System
+**Tech Stack:** React, Redux, Express.js, MongoDB, Tailwind CSS
+- A web application for renting bikes with real-time availability.
+- User authentication and role-based access.
+- Real-time bike availability tracking.
+- Secure checkout with Payment Gateway integration
+- [Live Demo](https://bike-rental-website.vercel.app/) | [GitHub Repo](https://github.com/reshad21/bike-rental-website)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reshad21&" alt="reshad21" /></p>
+### 🌟 PetBuddy - Pet Care Tips & Stories Platform
+**Tech Stack:** Next.js, Axios, Express.js, MongoDB, Tailwind CSS
+- A platform dedicated to sharing pet care tips and heartwarming pet stories.
+- User authentication and role-based access.
+- Browse and filter pet care tips by category
+- User-submitted pet stories with comments and likes functionality.
+- Secure checkout with Payment Gateway integration
+- [Live Demo](https://pet-buddy-frontend.vercel.app/) | [GitHub Repo](https://github.com/reshad21/pet-buddy-frontend)
+
+## 💼 What I Can Help You With
+
+- **Full-Stack Web Development** - End-to-end application development
+- **MERN Stack Applications** - MongoDB, Express.js, React, Node.js
+- **Database Design** - Efficient database schema design with Prisma/Mongoose
+- **API Development** - RESTful API design and implementation
+- **Frontend Development** - Responsive and interactive user interfaces
+- **Code Review & Optimization** - Improving code quality and performance
+
+## 📈 Experience Highlights
+
+- ✅ Built multiple full-stack applications using MERN stack
+- ✅ Implemented secure authentication and authorization systems
+- ✅ Designed and optimized database schemas with Prisma ORM
+- ✅ Created responsive and accessible user interfaces
+- ✅ Deployed applications on various cloud platforms
+- ✅ Collaborated on team projects using Git workflows
+
+## 🎯 Current Focus
+
+- Exploring advanced React patterns and performance optimization
+- Deepening knowledge in TypeScript and modern JavaScript features
+- Learning cloud technologies and DevOps practices
+- Contributing to open-source projects
+- Building projects with Next.js 15 and latest web technologies
+
+## 📫 Let's Connect!
+
+I'm always interested in discussing new opportunities, collaborating on projects, or just chatting about technology!
+
+- **Email:** [rasheduzzamanreshad@gmail.com](mailto:rasheduzzamanreshad@gmail.com)
+- **Portfolio:** [reshadportfolio.vercel.app](https://reshadportfolio.vercel.app/portfolio)
+- **LinkedIn:** [rashed uzzaman reshad](https://www.linkedin.com/in/web-developer-rashed-uzzaman-reshad/)
+- **Facebook:** [reshad rashed](https://www.facebook.com/reshad.rashed.7)
+
+## 🤝 Open to Opportunities
+
+I'm currently open to:
+- Full-time positions as a FULL Stack Developer
+- Freelance projects and consulting
+- Open-source collaborations
+- Mentoring and knowledge sharing
+
+---
+
+⭐️ **If you find my work interesting, please consider giving my repositories a star!**
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+```
+
