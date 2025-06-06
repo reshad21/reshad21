@@ -46,9 +46,14 @@ I'm a full-stack developer who loves building scalable web applications using th
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reshad21&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reshad21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshad21&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reshad&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshad21&theme=radical" alt="GitHub Streak Stats"/>
+</div>
 
 ## 🔥 Featured Projects
 
