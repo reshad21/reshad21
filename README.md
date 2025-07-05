@@ -10,7 +10,7 @@ I'm a full-stack developer who loves building scalable web applications using th
 - 🌱 Always learning and exploring new technologies
 - 💼 Open to collaboration and new opportunities
 - 📫 How to reach me: **rasheduzzamanreshad@gmail.com**
-- 🌐 Portfolio: **[reshadportfolio.vercel.app](https://reshadportfolio.vercel.app/portfolio)**
+- 🌐 Portfolio: **[reshadportfolio.vercel.app](https://reshadportfolio.vercel.app)**
 
 ## 🛠️ Tech Stack
 
